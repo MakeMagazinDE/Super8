@@ -10,4 +10,6 @@ elektronische Super8-Kassette
 ### Diese Kassette in Form einer Super8-Filmkassette enthält einen Raspberry Zero 2 mit Kamera.
 ![Picture](https://github.com/MakeMagazinDE/Super8/blob/main/Bild18.JPG)
 
+[Hier](https://github.com/jawsper/motioneyeos/releases/tag/20220119-dev) gibt es die an den Raspberry Pi Zero 2 angepasste Version von MotionEyeOS.
+
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 4/22 ab Seite 42](https://www.heise.de/select/make/2022/4/2216407332463065780) ** zu lesen
